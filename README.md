@@ -1,6 +1,6 @@
 ### Hi! <img src="https://emojis.slackmojis.com/emojis/images/1697742601/71098/cat3q.gif?1697742601" width="25"/>
 
-I'm [**Claudia**](https://fernandezclau.com), a passionate **software engineer** with a love for *machine learning*, *deep learning*, and everything related to *AI*. I'm also diving into *cybersecurity*, because why not?z
+I'm [**Claudia**](https://fernandezclau.com), a passionate **software engineer** with a love for *machine learning*, *deep learning*, and everything related to *AI*. I'm also diving into *cybersecurity*, because why not?
 
 When I'm not coding or tinkering with AI models, you can find me **crafting** random things, whether it's building side projects or simply exploring new tech that sparks my curiosity. I’m always up for learning something new or solving an interesting problem.
 
