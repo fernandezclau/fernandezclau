@@ -10,7 +10,6 @@ Feel free to **check out** my work and **connect** with me below!.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandezclau)
 [![Website](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logoColor=white)](https://fernandezclau.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/fernandezclau)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandezclauu)
 
 ---
